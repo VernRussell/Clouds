@@ -1,0 +1,37 @@
+{
+	"id": "0",
+	"name": "Joe Blow",
+	"features": [{
+		"id": "0",
+		"name": "Blew His Top",
+		"description": ["Puffed His cheeks", "Took a deep breath", "Blew out with all his might"]
+	}, {
+		"id": "1",
+		"name": "Azure Active Directory ",
+		"description": ["is not a replacement for on premises AD ", "Provides identity management centered around users and groups ", "does not contain the same hierarchial object model that AD has ", "exists to extend your on-prem AD into the cloud ", "it works when you have AD on your local on-prem network and just connect to the AAD for other features ", "if you do not have or use AD at all, Azure AD provides basic identity management"]
+	}, {
+		"id": "2",
+		"name": "Limits ",
+		"description": ["4096 private IPs per VNET ", "you can have multiple VNETs per account ", "60 public dynamic IPs ", "20 static IPs ", "first 5 free ", "rest cost $.004/hr"]
+	}, {
+		"id": "3",
+		"name": "Access Control Lists (ACL) ",
+		"description": ["protect resources inside Azure from outside access", "Can select/deny access to endpoints (URL and port)", "are for endpoints and not entire vnets or subnets (use NSGs instead) ", "can be created by Powershell or Management Portal"]
+	}, {
+		"id": "4",
+		"name": "Network Security Groups (NSG) ",
+		"description": ["Contain ACL rules, allow access/deny to a resource ", "Associate with VNets, Subnets, or VMs ", "when associated with a Subnet, the ACL points to all VMs within ", "can be apply only within only the current region where it is created ", "There is a prority set on rules ", "Each rule must have a unique priority"]
+	}, {
+		"id": "5",
+		"name": "Resource Groups ",
+		"description": ["allow you to operate on groups of VMs at once ", "Access control, billing, in-group communication ", "Only part of one group, not hierarchial ", "A resource can only be a part of one group ", "You cannot next groups ", "Can link resources into a group, to associate a resource from another group with this group ", "No limits to the number of resources in a group ", "Cannot rename groups ", "Available in the new portal"]
+	}, {
+		"id": "6",
+		"name": "Route Tables ",
+		"description": ["defined for your account, can associate Virtual Network with it ", "IP / condition mapping (VPN, path, or none e.g.) ", "Subnet -- blocks external traffic ", "you can asociate a subnet with a route, and hence apply the rules specified ", "Firewalls -- force the through firewall indicated"]
+	}, {
+		"id": "7",
+		"name": "Business Continuity/Disaster Recovery (BC/DR) ",
+		"description": ["We try to design applicatations for maximum availability when needed ", "Fault domains, update domains, availability sets ", "Take advantage of scaling options in Azure ", "Auto scaling, traffic manager ", "We need to take DR into consideration when coming up with the requirements. ", "Non-functional reqirement or technical reqirement ", "What can go wrong ", "Should we mitigate against it ", "How do you mitigate ", "Tradeoffs ", "What is a disaster? ", "How long is acceptable down? SLA ", "How much data is acceptable?"]
+	}]
+}

@@ -1,0 +1,18 @@
+  Enter new Entry data. Parsed results can be downloaded using the link provided.
+  <form #f="ngForm" novalidate>
+    <div class="form-group">
+      <label>Name</label>
+      <input type="textarea" class="form-control" name="name" [(ngModel)]="user.name">
+       {{eJson}}<hr>
+    </div>
+		    <button type="submit" (click)="onClick(f.valid, f.value)" class="btn btn-default">Submit</button>
+  </form>
+  Enter new Item data
+   <form #i="ngForm" novalidate>
+    <div class="form-group">
+      <label>Name</label>
+      <input type="textarea" class="form-control" name="name" [(ngModel)]="acro.name">
+        {{json}}<hr>
+    </div>
+		    <button type="submit" (click)="onClickItem(i.valid, i.value)" class="btn btn-default">Submit</button>
+  </form>

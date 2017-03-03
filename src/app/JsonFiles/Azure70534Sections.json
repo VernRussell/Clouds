@@ -1,0 +1,696 @@
+{
+	"id": "0",
+	"number": "70-534",
+	"name": "Architecting Microsoft Azure Solutions Certification",
+	"sections": [{
+		"id": "1",
+		"name": "Quick Start",
+		"lectures": [{
+			"id": "1",
+			"name": "Course Introduction"
+		}, {
+			"id": "2",
+			"name": "Overview of this Course V2"
+		}, {
+			"id": "3",
+			"name": "Meet The Instructor"
+		}, {
+			"id": "4",
+			"name": "Activity: Build a Study Plan "
+		}, {
+			"id": "5",
+			"name": "Details of the 70-534 Exam V4"
+		}, {
+			"id": "6",
+			"name": "Exam 70-534 Requirements"
+		}, {
+			"id": "7",
+			"name": "My Experience with the Exam"
+		}, {
+			"id": "8",
+			"name": "Old Portal Versus New Portal"
+		}, {
+			"id": "9",
+			"name": "Sept 2016 Exam Updates"
+		}, {
+			"id": "10",
+			"name": "Nov 2016 Exam Updates"
+		}, {
+			"id": "11",
+			"name": "Important Note About New Exam Requirements"
+		}]
+	}, {
+		"id": "2",
+		"name": "Azure Data Centers",
+		"lectures": [{
+			"id": "12",
+			"name": "Introduction to Azure Networking"
+		}, {
+			"id": "13",
+			"name": "Microsoft Datacenters No Longer a Requirement"
+		}]
+	}, {
+		"id": "3",
+		"name": "Azure Virtual Networks",
+		"lectures": [{
+			"id": "14",
+			"name": "Azure Active Directory"
+		}, {
+			"id": "15",
+			"name": "Understanding IP Addresses "
+		}, {
+			"id": "16",
+			"name": "Access Control Lists"
+		}, {
+			"id": "17",
+			"name": "Network Security Groups"
+		}, {
+			"id": "18",
+			"name": "Resource groups"
+		}, {
+			"id": "19",
+			"name": "User Defined Routes and IP Forwarding"
+		}, {
+			"id": "20",
+			"name": "Objective 1.2 Flashcards"
+		}, {
+			"id": "21",
+			"name": "Resources for Objective 1.2"
+		}]
+	}, {
+		"id": "4",
+		"name": "Azure Compute",
+		"lectures": [{
+			"id": "22",
+			"name": "Azure Compute"
+		}, {
+			"id": "23",
+			"name": "Cloud Services"
+		}, {
+			"id": "24",
+			"name": "Virtual Machines"
+		}, {
+			"id": "25",
+			"name": "Virtual Machine Sizing"
+		}, {
+			"id": "26",
+			"name": "Objective 1.3 Flashcards"
+		}, {
+			"id": "27",
+			"name": "Azure VM LiveLab - Walk Through of Creating a VM "
+		}, {
+			"id": "28",
+			"name": "Resources for Objective 1.3"
+		}]
+	}, {
+		"id": "5",
+		"name": "Azure VPN",
+		"lectures": [{
+			"id": "29",
+			"name": "Overview of VPN and ExpressRoute"
+		}, {
+			"id": "30",
+			"name": "P2S Point-to-Site VPN"
+		}, {
+			"id": "31",
+			"name": "S2S Site-to-Site VPN"
+		}, {
+			"id": "32",
+			"name": "ExpressRoute"
+		}, {
+			"id": "33",
+			"name": "Objective 1.4 Flashcards"
+		}, {
+			"id": "34",
+			"name": "Resources for Objective 1.4"
+		}]
+	}, {
+		"id": "6",
+		"name": "Azure Services",
+		"lectures": [{
+			"id": "35",
+			"name": "Azure Services & Solutions"
+		}, {
+			"id": "36",
+			"name": "Azure Load Balancer"
+		}, {
+			"id": "37",
+			"name": "Internal Load Balancer"
+		}, {
+			"id": "38",
+			"name": "Azure Application Gateway"
+		}, {
+			"id": "39",
+			"name": "Traffic Manager"
+		}, {
+			"id": "40",
+			"name": "Azure Media Services"
+		}, {
+			"id": "41",
+			"name": "Azure Content Delivery Network (CDN)"
+		}, {
+			"id": "42",
+			"name": "Azure Active Directory"
+		}, {
+			"id": "43",
+			"name": "Microsoft Azure Redis Cache"
+		}, {
+			"id": "44",
+			"name": "What is Azure Multi-Factor Authentication?"
+		}, {
+			"id": "45",
+			"name": "Azure Service Bus"
+		}, {
+			"id": "46",
+			"name": "Objective 1.5 Flashcards (*NEW* 9/2016)"
+		}, {
+			"id": "Quiz 3: Azure Services Quiz"
+		}, {
+			"id": "47",
+			"name": "Resources for Objective 1.5"
+		}]
+	}, {
+		"id": "7",
+		"name": "Assignment 1 - Hands On Lab for Objective 1",
+		"lectures": [{
+			"id": "48",
+			"name": "Assignment 1 "
+		}, {
+			"id": "49",
+			"name": "Walk-through of Assignment 1, VNET"
+		}, {
+			"id": "50",
+			"name": "Walk-through of Assignment 1, Certificates"
+		}, {
+			"id": "51",
+			"name": "Walk-through of Assignment 1, Connecting "
+		}, {
+			"id": "52",
+			"name": "Walk-through of Assignment 1, VPNs "
+		}]
+	}, {
+		"id": "8",
+		"name": "Managed Identities",
+		"lectures": [{
+			"id": "53",
+			"name": "Introduction to Azure Security"
+		}, {
+			"id": "54",
+			"name": "Managed Identities"
+		}, {
+			"id": "55",
+			"name": "Graph API"
+		}, {
+			"id": "56",
+			"name": "OAuth and OpenID"
+		}, {
+			"id": "57",
+			"name": "Objective 2.1 Flashcards"
+		}, {
+			"id": "58",
+			"name": "Resources for Objective 2.1"
+		}]
+	}, {
+		"id": "9",
+		"name": "Hybrid Identities",
+		"lectures": [{
+			"id": "59",
+			"name": "Hybrid Identities"
+		}, {
+			"id": "60",
+			"name": "SAML Claims"
+		}, {
+			"id": "61",
+			"name": "Azure AD FS"
+		}, {
+			"id": "62",
+			"name": "Application Proxy"
+		}, {
+			"id": "63",
+			"name": "Objective 2.2 Flashcards"
+		}, {
+			"id": "64",
+			"name": "Resources for Objective 2.2"
+		}]
+	}, {
+		"id": "10",
+		"name": "10 Identity Providers",
+		"lectures": [{
+			"id": "65",
+			"name": "ACS"
+		}, {
+			"id": "66",
+			"name": ".NET Coding"
+		}, {
+			"id": "67",
+			"name": "Objective 2.3 Flashcards "
+		}, {
+			"id": "68",
+			"name": "Resources for Objective 2.3"
+		}]
+	}, {
+		"id": "11",
+		"name": "Data Security",
+		"lectures": [{
+			"id": "69",
+			"name": "Network Security Group "
+		}, {
+			"id": "70",
+			"name": "NSGs In Practice"
+		}, {
+			"id": "71",
+			"name": "Data security in transit and at rest "
+		}, {
+			"id": "72",
+			"name": "Azure Operations Management Suite"
+		}, {
+			"id": "73",
+			"name": "Objective 2.4 Flashcards "
+		}, {
+			"id": "74",
+			"name": "Resources for Objective 2.4"
+		}]
+	}, {
+		"id": "12",
+		"name": "12 Role-Based Security",
+		"lectures": [{
+			"id": "75",
+			"name": "What is Role Based Access Control?"
+		}, {
+			"id": "76",
+			"name": "RBAC In Practice"
+		}, {
+			"id": "77",
+			"name": "Objective 2.5 Flashcards "
+		}, {
+			"id": "78",
+			"name": "Resources for Objective 2.5"
+		}]
+	}, {
+		"id": "13",
+		"name": "Assignment 2 - Hands On Lab for Objective 2",
+		"lectures": [{
+			"id": "79",
+			"name": "Assignment 2"
+		}, {
+			"id": "80",
+			"name": "Walk-through of Assignment 2"
+		}]
+	}, {
+		"id": "14",
+		"name": "zure Data Storage",
+		"lectures": [{
+			"id": "81",
+			"name": "Introduction to Data Storage"
+		}, {
+			"id": "82",
+			"name": "Table Storage"
+		}, {
+			"id": "83",
+			"name": "SQL Storage"
+		}, {
+			"id": "84",
+			"name": "DocumentDB Storage"
+		}, {
+			"id": "85",
+			"name": "Blob Storage"
+		}, {
+			"id": "86",
+			"name": "Queue Storage"
+		}, {
+			"id": "87",
+			"name": "File Storage"
+		}, {
+			"id": "88",
+			"name": "SQL Server VM"
+		}, {
+			"id": "89",
+			"name": "Securing SQL Server"
+		}, {
+			"id": "90",
+			"name": "Resources for Objective 3.1"
+		}]
+	}, {
+		"id": "15",
+		"name": "Azure Mobile Apps",
+		"lectures": [{
+			"id": "91",
+			"name": "Introduction to Azure Mobile Apps"
+		}, {
+			"id": "92",
+			"name": "Cross Platform Applications"
+		}, {
+			"id": "93",
+			"name": "Offline Sync"
+		}, {
+			"id": "94",
+			"name": "Extend Mobile Apps"
+		}, {
+			"id": "95",
+			"name": "Mobile Security"
+		}, {
+			"id": "96",
+			"name": "Resources for Objective 3.2"
+		}]
+	}, {
+		"id": "16",
+		"name": "Azure Notification",
+		"lectures": [{
+			"id": "97",
+			"name": "Azure Notification Hub"
+		}, {
+			"id": "98",
+			"name": "Resources for Objective 3.3"
+		}]
+	}, {
+		"id": "17",
+		"name": "17 Web API",
+		"lectures": [{
+			"id": "99",
+			"name": "Web API"
+		}, {
+			"id": "100",
+			"name": "Scaling Web API"
+		}, {
+			"id": "101",
+			"name": "Web Jobs"
+		}, {
+			"id": "102",
+			"name": "Securing Web API"
+		}, {
+			"id": "103",
+			"name": "Resources for Objective 3.4"
+		}]
+	}, {
+		"id": "18",
+		"name": "Hybrid Applications",
+		"lectures": [{
+			"id": "104",
+			"name": "Service Bus Relay"
+		}, {
+			"id": "105",
+			"name": "BizTalk"
+		}, {
+			"id": "Quiz 5: Service Bus Quiz"
+		}, {
+			"id": "106",
+			"name": "Resources for Objective 3.5"
+		}]
+	}, {
+		"id": "19",
+		"name": "Media Services",
+		"lectures": [{
+			"id": "107",
+			"name": "Overview of Azure Media Services"
+		}, {
+			"id": "108",
+			"name": "Resources for Objective 3.6"
+		}]
+	}, {
+		"id": "20",
+		"name": "Assignment 3 - Hands On Lab for Objective 3",
+		"lectures": [{
+			"id": "109",
+			"name": "Assignment 3"
+		}, {
+			"id": "110",
+			"name": "Walk-through of Assignment 3, .NET"
+		}, {
+			"id": "111",
+			"name": "Walk-through of Assignment 3, Storage Account"
+		}, {
+			"id": "112",
+			"name": "Walk-through of Assignment 3, Insert Data"
+		}, {
+			"id": "113",
+			"name": "Walk-through of Assignment 3, Query Data"
+		}, {
+			"id": "114",
+			"name": "Halfway Through the Course!"
+		}]
+	}, {
+		"id": "21",
+		"name": "Compute Intensive Applications",
+		"lectures": [{
+			"id": "115",
+			"name": "Introduction to Advanced Applications"
+		}, {
+			"id": "116",
+			"name": "High Performance Computing in Azure"
+		}, {
+			"id": "117",
+			"name": "Resources for Objective 4.1"
+		}]
+	}, {
+		"id": "22",
+		"name": "Long Running Applications",
+		"lectures": [{
+			"id": "118",
+			"name": "Designing Long Running Applications"
+		}, {
+			"id": "Quiz 6: Long Running Applications Quiz"
+		}, {
+			"id": "119",
+			"name": "Resources for Objective 4.2"
+		}]
+	}, {
+		"id": "23",
+		"name": "Selecting Storage Options",
+		"lectures": [{
+			"id": "120",
+			"name": "Considerations for Storage Options"
+		}, {
+			"id": "121",
+			"name": "Resources for Objective 4.3"
+		}]
+	}, {
+		"id": "24",
+		"name": "Integrating Azure Services with a Solution",
+		"lectures": [{
+			"id": "122",
+			"name": "Azure Machine Learning"
+		}, {
+			"id": "123",
+			"name": "Big Data"
+		}, {
+			"id": "124",
+			"name": "Azure Search"
+		}, {
+			"id": "125",
+			"name": "Resources for Objective 4.4"
+		}]
+	}, {
+		"id": "25",
+		"name": "Scalability and Performance of Azure Web Apps",
+		"lectures": [{
+			"id": "126",
+			"name": "Introduction to Azure Web Apps"
+		}, {
+			"id": "127",
+			"name": "Globally Scale Azure Web Apps"
+		}, {
+			"id": "128",
+			"name": "Develop Web Apps in .NET"
+		}, {
+			"id": "129",
+			"name": "Debugging Web Apps"
+		}, {
+			"id": "130",
+			"name": "Language Options"
+		}, {
+			"id": "131",
+			"name": "Difference Between Web Apps and VM and Cloud Services"
+		}, {
+			"id": "132",
+			"name": "Resources for Objective 5.1"
+		}]
+	}, {
+		"id": "26",
+		"name": "Deploy Web Apps 133 Site Extensions",
+		"lectures": [{
+			"id": "134",
+			"name": "Packages"
+		}, {
+			"id": "135",
+			"name": "App Hosting Plans"
+		}, {
+			"id": "136",
+			"name": "Deployment Slots"
+		}, {
+			"id": "Quiz 7: Deploy Web Apps Quiz"
+		}, {
+			"id": "137",
+			"name": "Resources for Objective 5.2"
+		}]
+	}, {
+		"id": "27",
+		"name": "Design for Business Continuity",
+		"lectures": [{
+			"id": "138",
+			"name": "Scaling for Business Continuity"
+		}, {
+			"id": "139",
+			"name": "Data Replication"
+		}, {
+			"id": "140",
+			"name": "Disaster Recovery"
+		}, {
+			"id": "141",
+			"name": "Azure Resource Manager (ARM) Templates "
+		}, {
+			"id": "142",
+			"name": "Resources for Objective 5.3"
+		}]
+	}, {
+		"id": "28",
+		"name": "Assignment 5 - Hands On Lab for Objective 5",
+		"lectures": [{
+			"id": "143",
+			"name": "Assignment 5"
+		}]
+	}, {
+		"id": "29",
+		"name": "Microsoft System Center for Hybrid Model",
+		"lectures": [{
+			"id": "144",
+			"name": "Introduction to Managing, Monitoring and Deployment"
+		}, {
+			"id": "145",
+			"name": "What Is Microsoft System Center?"
+		}, {
+			"id": "146",
+			"name": "Considerations for Choosing the Hybrid Model"
+		}, {
+			"id": "147",
+			"name": "When to Use a Hybrid Model"
+		}, {
+			"id": "148",
+			"name": "Resources for Objective 6.1"
+		}]
+	}, {
+		"id": "30",
+		"name": "Monitoring",
+		"lectures": [{
+			"id": "149",
+			"name": "Overview of Azure Monitoring"
+		}, {
+			"id": "150",
+			"name": "System Center Operations Manager (SCOM)"
+		}, {
+			"id": "151",
+			"name": "Monitoring Use Cases"
+		}, {
+			"id": "152",
+			"name": "Patching Strategy"
+		}, {
+			"id": "153",
+			"name": "Resources for Objective 6.2"
+		}]
+	}, {
+		"id": "31",
+		"name": "Business Continuity and Disaster Recovery",
+		"lectures": [{
+			"id": "154",
+			"name": "Introduction to Business Continuity / Disaster Recovery"
+		}, {
+			"id": "155",
+			"name": "Hyper-V and Hyper-V Replica"
+		}, {
+			"id": "156",
+			"name": "Azure Backup for VMs"
+		}, {
+			"id": "157",
+			"name": "Resources for Objective 6.3"
+		}]
+	}, {
+		"id": "32",
+		"name": "Azure Backup",
+		"lectures": [{
+			"id": "158",
+			"name": "Overview of Azure Backup"
+		}, {
+			"id": "159",
+			"name": "Azure Backup LiveLab - Walk-through of Azure Backup"
+		}, {
+			"id": "160",
+			"name": "Resources for Objective 6.4"
+		}]
+	}, {
+		"id": "33",
+		"name": "33 Azure Automation",
+		"lectures": [{
+			"id": "161",
+			"name": "Azure Automation Options"
+		}, {
+			"id": "162",
+			"name": "Resources for Objective 6.5"
+		}, {
+			"id": "34",
+			"name": "Chef and Puppet",
+			"lectures": [{
+				"id": "163",
+				"name": "Desired State Configuration (DSC)"
+			}, {
+				"id": "164",
+				"name": "Resources for Objective 6.6"
+			}]
+		}, {
+			"id": "35",
+			"name": "New Lectures for New Requirements",
+			"lectures": [{
+				"id": "165",
+				"name": "Azure Functions"
+			}, {
+				"id": "166",
+				"name": "Stream Analytics"
+			}, {
+				"id": "167",
+				"name": "IoT Hub"
+			}, {
+				"id": "168",
+				"name": "API Management"
+			}, {
+				"id": "169",
+				"name": "Service Fabric"
+			}]
+		}, {
+			"id": "36",
+			"name": "Wrapping Up and Errata",
+			"lectures": [{
+				"id": "170",
+				"name": "Thank You!"
+			}, {
+				"id": "171",
+				"name": "BONUS Lecture - Discounts"
+			}]
+		}, {
+			"id": "37",
+			"name": "Deprecated Lectures",
+			"lectures": [{
+				"id": "172",
+				"name": "Self-Hosted, Co-Location and Cloud Hosting "
+			}, {
+				"id": "173",
+				"name": "What is High Availability?"
+			}, {
+				"id": "174",
+				"name": "Reviewing the Azure Regions and Geos"
+			}, {
+				"id": "175",
+				"name": "Regional Availability And Fallback"
+			}, {
+				"id": "176",
+				"name": "Data Centers, Clusters and Racks"
+			}, {
+				"id": "177",
+				"name": "Data Center 3D Tour "
+			}, {
+				"id": "178",
+				"name": "DirSync"
+			}, {
+				"id": "179",
+				"name": "AADSync"
+			}]
+		}]
+	}]
+}

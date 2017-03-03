@@ -1,0 +1,15 @@
+<div *ngIf="cloudService.spec">
+   Features
+			<div class="row">
+			{{cloudService.spec.name}}
+		  <ul>
+		    <li class="leftLabel" *ngFor="let feature of cloudService.spec.features; let i = index">{{feature.name}}
+		    	<ul>
+		    	  <li class="details" *ngFor="let desc of feature.description; let i = index">{{desc}}	
+		    	</ul>
+		    </li>
+		  </ul>
+		</div>
+
+</div>
+

@@ -1,0 +1,22 @@
+Hello
+<div *ngIf="courseService.course">
+	<div class="row">
+	{{courseService.course.name}}
+	<div *ngIf="courseService.course.sections">
+		  <table>
+		    <div *ngFor="let section of courseService.course.sections; let i = index">
+		    	<tr><td colspan="2" class="leftLabel bo">Section {{section.id}}</td><td class="highlights bo"> - {{section.name}}:</td></tr>
+				<tr *ngIf="section"><td colspan="3">
+					<table>
+					    <tr *ngFor="let lecture of section.lectures; let j = index">
+					    	<td class="bo">&nbsp;</td>
+					    	<td class="highlights bo">Lecture {{lecture.id}}.</td><td class="highlights bo"> {{lecture.name}}:</td>
+					    </tr>
+				    </table></td>
+				</tr>
+				<tr><td colspan="3">&nbsp;</td></tr>
+		    </div>
+		  </table>
+		</div>
+	</div>
+</div>

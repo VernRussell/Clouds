@@ -1,0 +1,245 @@
+{
+	"id": "0",
+	"name": "Joe Blow",
+	"items": [{
+		"id": "0",
+		"acronym": "ABC",
+		"name": "Alyssa Burnett Center",
+		"description": "School for developmently disabled adults"
+	}, {
+		"id": "1",
+		"acronym": "SCH",
+		"name": "Seattle Childrens Hospital",
+		"description": "Seattle's hospital for sick children."
+	}, {
+		"id": "2",
+		"name": "Active Directory",
+		"acronym": "AD",
+		"description": "a top solution for providing directory (domain) services in company networks"
+	}, {
+		"id": "3",
+		"name": "Cross-Origin Resource Sharing",
+		"acronym": "CORS",
+		"description": "mechanism gives web servers cross-domain access controls, which enable secure cross-domain access"
+	}, {
+		"id": "4",
+		"name": " Virtual Hard Disk",
+		"acronym": "VHD",
+		"description": "Regular disks used by virtual machines"
+	}, {
+		"id": "5",
+		"name": " Solid State Drive",
+		"acronym": "SSD",
+		"description": "fastest and most expensive disks"
+	}, {
+		"id": "6",
+		"name": " Point to Site",
+		"acronym": "P2S",
+		"description": "Connect to Corp Network from external point, travels over public internet"
+	}, {
+		"id": "7",
+		"name": " Site to Site",
+		"acronym": "S2S",
+		"description": "Connect to Corp Network using your network gateway, travels over public internet"
+	}, {
+		"id": "8",
+		"name": " Multiprotocol Label Switching",
+		"acronym": "MPLS",
+		"description": "is a type of data-carrying technique for high-performance telecommunications networks that directs data from one network node to the next based on short path labels rather than long network addresses, avoiding complex lookups in a routing table."
+	}, {
+		"id": "9",
+		"name": " Secure Socket Tunneling Protocol",
+		"acronym": "SSTP",
+		"description": "is a form of VPN tunnel that provides a mechanism to transport PPP traffic through an SSL/TLS channel. SSL/TLS provides transport-level security with key-negotiation, encryption and traffic integrity checking."
+	}, {
+		"id": "10",
+		"name": " Internet Protocol Security",
+		"acronym": "IPsec",
+		"description": "a protocol suite for secure Internet Protocol (IP) communications, works by authenticating and encrypting each IP packet of a communication session."
+	}, {
+		"id": "11",
+		"name": " Routing and Remote Access Service",
+		"acronym": "RRAS",
+		"description": "is a Microsoft API and server software that makes it possible to create applications to administer the routing and remote access service capabilities of the operating system, to function as a network router."
+	}, {
+		"id": "12",
+		"name": " Content Delivery Network",
+		"acronym": "CDN",
+		"description": "Server designed to send static content -- Mostly video, images, audio, css, js files"
+	}, {
+		"id": "13",
+		"name": " Digital Rights Management",
+		"acronym": "DRM",
+		"description": "schemes are various access control technologies that are used to restrict usage of proprietary hardware and copyrighted works."
+	}, {
+		"id": "14",
+		"name": " Traffic Manager",
+		"acronym": "TM",
+		"description": "Multiple deployments in different region providing the best server in the best region to serve client in various countries"
+	}, {
+		"id": "15",
+		"name": " Azure Active Directory",
+		"acronym": "AAD",
+		"description": "Login to multiple services through one login/identity, Single Sign On multi-factor authentication"
+	}, {
+		"id": "16",
+		"name": " Single sign-on",
+		"acronym": "SSO",
+		"description": "is a property of access control of multiple related, but independent software systems. With this property a user logs in with a single ID and password to gain access to a connected system or systems without using different usernames or passwords, or in some configurations seamlessly sign on at each system."
+	}, {
+		"id": "17",
+		"name": " Service Level Agreement",
+		"acronym": "SLA",
+		"description": "Agreed percentage of availablity performance."
+	}, {
+		"id": "18",
+		"name": " Security Assertions Markup Language",
+		"acronym": "SAML",
+		"description": "generates tokens for applications to use to assure identity"
+	}, {
+		"id": "19",
+		"name": " Access Control Service",
+		"acronym": "ACS",
+		"description": "Service to control user access"
+	}, {
+		"id": "20",
+		"name": " Business to consumer",
+		"acronym": "B2C",
+		"description": "cloud identity management solution for consumer facing web/mobile apps"
+	}, {
+		"id": "21",
+		"name": " Network Security Group",
+		"acronym": "NSG",
+		"description": "Contain ACL rules, allow access/deny to a resource, associate with VNets, Subnets, or VMs"
+	}, {
+		"id": "22",
+		"name": "Domain Services",
+		"acronym": "AD DS",
+		"description": "how employees log onto Windows"
+	}, {
+		"id": "23",
+		"name": " Lightweight Directory Services",
+		"acronym": "AD LDS)",
+		"description": "undefined"
+	}, {
+		"id": "24",
+		"name": " Certificate Services",
+		"acronym": "AD CS",
+		"description": "a public key infrastructure (PKI) that allows for certificates to be signed and authenticated"
+	}, {
+		"id": "25",
+		"name": " Federation Services",
+		"acronym": "AD FS",
+		"description": "for single sign-on authentication"
+	}, {
+		"id": "26",
+		"name": " Rights Management Services",
+		"acronym": "AD RMS",
+		"description": "for protecting documents"
+	}, {
+		"id": "27",
+		"name": " Virtual Machines",
+		"acronym": "VM",
+		"description": "OS image running on virtual hard disk (VHD) with look and feel of a physical server"
+	}, {
+		"id": "28",
+		"name": " Application Gateways",
+		"acronym": "AG",
+		"description": "an application program that runs on a firewall system between two networks. When a client program establishes a connection to a destination service, it connects to an application gateway, or proxy."
+	}, {
+		"id": "29",
+		"name": " Domain Name Server",
+		"acronym": "DNS",
+		"description": "lookup server ip, goes to TM and get address based on geo"
+	}, {
+		"id": "30",
+		"name": " Access Control Lists",
+		"acronym": "ACL",
+		"description": "protect resources inside Azure from outside access"
+	}, {
+		"id": "31",
+		"name": " Network Security Groups",
+		"acronym": "NSG",
+		"description": "Contain ACL rules, allow access/deny to a resource"
+	}, {
+		"id": "32",
+		"name": " Resource Groups",
+		"acronym": "RG",
+		"description": "allow you to operate on groups of VMs at once with Access control, billing and in-group communication"
+	}, {
+		"id": "33",
+		"name": " User Defined Network",
+		"acronym": "UDN",
+		"description": "simplify and scale our network by: Separating hardware and software functionality, separating network control plane and forwarding planes and improving management of functionality in the software layer."
+	}, {
+		"id": "34",
+		"name": " User Defined Route",
+		"acronym": "UDR",
+		"description": "Used to forward IP traffic to a virtual appliance"
+	}, {
+		"id": "35",
+		"name": "Storage Service Encryption",
+		"acronym": "SSE",
+		"description": "Automatically encrypts data and decrypt prior to retrevial"
+	}, {
+		"id": "36",
+		"name": " Ops Mgment Suite",
+		"acronym": "OMS",
+		"description": "seek out threats, dashboard, allows you to define policies for nw traffice in/out of nw, perform security audit, monitor nw from security perspective, detect threates and mitigate any "
+	}, {
+		"id": "37",
+		"name": " Role based access control",
+		"acronym": "RBAC",
+		"description": "Give permissions to roles, grant roles to indiv / groups"
+	}, {
+		"id": "38",
+		"name": "Server Message Block",
+		"acronym": "SMB",
+		"description": "operates as an application-layer network protocol mainly used for providing shared access to files, printers, and serial ports and miscellaneous communications between nodes on a network."
+	}, {
+		"id": "39",
+		"name": " Recovery time objective",
+		"acronym": "RTO",
+		"description": "max amount of time to restore app functionality"
+	}, {
+		"id": "40",
+		"name": " Recover Point Objective",
+		"acronym": "RPO",
+		"description": "acceptable time window of data lost"
+	}, {
+		"id": "41",
+		"name": " Data Protection Mangager",
+		"acronym": "DPM",
+		"description": "complete backup solution for servers"
+	}, {
+		"id": "42",
+		"name": " Configuration Manger",
+		"acronym": "SCCM",
+		"description": "heart of SC Admin to mg computers"
+	}, {
+		"id": "43",
+		"name": " System Center Orchestrator",
+		"acronym": "SCO",
+		"description": "Allow you create runbooks all sorts of tasks "
+	}, {
+		"id": "44",
+		"name": " VM Manager",
+		"acronym": "VMM",
+		"description": "Manager of VMs"
+	}, {
+		"id": "45",
+		"name": " System Center Operations Manager",
+		"acronym": "SCOM",
+		"description": "is the heart of operations"
+	}, {
+		"id": "46",
+		"name": " Business Continuity/Disaster Recovery",
+		"acronym": "BC/DR",
+		"description": "We try to design applicatations for maximum availability when needed with Fault domains, update domains, availability sets, taking advantage of scaling options in Azure and disaster recovery into consideration when coming up with the requirements."
+	}, {
+		"id": "47",
+		"name": " Desired State Configuration",
+		"acronym": "DSC",
+		"description": "Forcing a desired state, ensure the state remains in a pre-defined consistant setting"
+	}]
+}

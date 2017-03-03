@@ -1,0 +1,14 @@
+<div *ngIf="itemService.entry">
+   Items
+	<div class="row">
+	{{itemService.entry.name}}
+	<div *ngIf="itemService.entry.items">
+		  <table>
+		    <tr *ngFor="let item of itemService.entry.items; let i = index">
+		    	<td class="leftLabel">	{{item.acronym}} -</td><td class="highlights"> {{item.name}}:</td><td class="details"> {{item.description}}</td>
+		    </tr>
+		  </table>
+		</div>
+	</div>
+</div>
+
